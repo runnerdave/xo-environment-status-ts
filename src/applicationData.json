@@ -1,0 +1,38 @@
+{
+  "panels": [
+    {
+      "base": {
+        "title": "Information",
+        "blurb": ["Click on any of the buttons below to report a problem with the environment.",
+                  "Hover over an environment title to see its history."]
+      }
+    }
+  ],
+  "buttons": [
+    {
+      "id": "ODBXSIT1",
+      "title": "OBDX SIT1"
+    },
+    {
+      "id": "ODBXSIT4",
+      "title": "OBDX SIT4"
+    },
+    {
+      "id": "DCOSIT1",
+      "title": "DCO SIT1"
+    },
+    {
+      "id": "DCOSIT4",
+      "title": "DCO SIT4"
+    },
+    {
+      "id": "DOCTASIT1",
+      "title": "DOCTA SIT1"
+    },
+    {
+      "id": "DOCTASIT4",
+      "title": "DOCTA SIT4"
+    }
+  ],
+  "footer": "Powered by React"
+}
